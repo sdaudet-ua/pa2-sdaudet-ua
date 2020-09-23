@@ -1,0 +1,13 @@
+C:\source\repos\PA2\bin\Debug\netcoreapp3.1\PA2.exe
+C:\source\repos\PA2\bin\Debug\netcoreapp3.1\PA2.deps.json
+C:\source\repos\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.json
+C:\source\repos\PA2\bin\Debug\netcoreapp3.1\PA2.runtimeconfig.dev.json
+C:\source\repos\PA2\bin\Debug\netcoreapp3.1\PA2.dll
+C:\source\repos\PA2\bin\Debug\netcoreapp3.1\PA2.pdb
+C:\source\repos\PA2\obj\Debug\netcoreapp3.1\PA2.csprojAssemblyReference.cache
+C:\source\repos\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfoInputs.cache
+C:\source\repos\PA2\obj\Debug\netcoreapp3.1\PA2.AssemblyInfo.cs
+C:\source\repos\PA2\obj\Debug\netcoreapp3.1\PA2.csproj.CoreCompileInputs.cache
+C:\source\repos\PA2\obj\Debug\netcoreapp3.1\PA2.dll
+C:\source\repos\PA2\obj\Debug\netcoreapp3.1\PA2.pdb
+C:\source\repos\PA2\obj\Debug\netcoreapp3.1\PA2.genruntimeconfig.cache
